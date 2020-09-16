@@ -1,4 +1,8 @@
 # Introduction-of-Deep-Learning
+
+## 深層学習の全体像について
+(https://qiita.com/Strix9289/private/409e6b9f04c1a862aa64)
+
 ## Kerasでボストンの家賃を推測する回帰モデル
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Strix9289/Introduction-of-Deep-Learning/blob/master/Regression.ipynb)
 
