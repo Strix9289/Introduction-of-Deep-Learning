@@ -33,3 +33,5 @@ https://www.youtube.com/watch?v=O3qm6qZooP0
 ## CNNを学ぶ
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Strix9289/Introduction-of-Deep-Learning/blob/master/CNN.ipynb)
 
+## MLPとCNNを比較する
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Strix9289/Introduction-of-Deep-Learning/blob/master/Compare_MLP_and_CNN.ipynb)
